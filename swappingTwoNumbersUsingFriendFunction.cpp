@@ -58,6 +58,7 @@ int main()
 
 void swap(One &a, Two &b)
 {
+	
 	int temp;
 	temp= a.n1;
 	a.n1=b.n2;
