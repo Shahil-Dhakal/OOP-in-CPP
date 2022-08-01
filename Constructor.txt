@@ -1,0 +1,3 @@
+Q)Can a constructor be overloaded?
+-> Yes, Constructor can be overloaded. As there can be default, parameterized and copy constructor in the same program as per the requirement and constructor and the special member functions with the same name as the class. So, the constructor can be overloaded.
+For example program, you can give example program of using copy constructor in the program.
